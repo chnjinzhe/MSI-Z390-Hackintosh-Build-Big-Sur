@@ -3,7 +3,7 @@ Update logs——更新日志
 
 20200809 
 
-macOS Big Sur Beta4 compatible——macOS Big Sur Beta4兼容
+macOS Big Sur compatible——macOS Big Sur兼容
 
 USB installer bootable.——可U盘引导安装。
 
