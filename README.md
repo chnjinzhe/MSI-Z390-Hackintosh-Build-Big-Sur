@@ -1,4 +1,4 @@
-# MSI-Z390-Hackintosh-Build-Big-Sur
+# MSI-Z390-Tomahawk-Hackintosh-Build-Big-Sur
 Update logs——更新日志
 
 20200809 
