@@ -9,6 +9,8 @@ USB installer bootable.——可U盘引导安装。
 
 PlatformInfo cleared.——三码已清除，测试多种机型可用，可自行添加三码。
 
+需要兼容的独立显卡。
+
 wx71826614
 
 如需最新版本（OC 0.6.4），请加如上微信，10元一份。
